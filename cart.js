@@ -84,7 +84,8 @@ const cart = () => {
             default:
                 break;
         }
-    })//123
+    })
+    
 
     const initApp = () => {
         
